@@ -1,5 +1,8 @@
 # Next.js Portfolio Projesi
 
+Proje dosyalarının bazıları gizli olduğu için buraya ekleyemedim. 
+Bağımlılıkları yüklemeniz gerekiyor npm install yaptığınız zaman sorunsuz başlatabilirsiniz.
+
 Bu proje [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) kullanılarak oluşturulmuş bir [Next.js](https://nextjs.org) projesidir.
 
 ## Başlangıç
